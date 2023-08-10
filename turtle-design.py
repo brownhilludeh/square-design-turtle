@@ -1,5 +1,5 @@
 from turtle import *
-
+# this was my first python code
 pensize(3)
 pencolor('brown')
 def logo():
@@ -10,9 +10,6 @@ def logo():
         left(90)
         forward(100)
         left(90)
-
-
-
 logo()
 hideturtle()
 mainloop()
